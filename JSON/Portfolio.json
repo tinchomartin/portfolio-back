@@ -1,14 +1,14 @@
 [
   {
     "name": "Proyecto 1",
-    "descripcion": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
-    "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
-    "link": "http://cv.giulianaolmos.guixon.com/"
+    "descripcion": "Utilicé React para desarrollar un buscador de artistas similares al ingresado por el usuario, mediante la API de LastFM",
+    "image": "https://i.ibb.co/ZgQZBT5/Captura.jpg",
+    "link": "https://find--rock.web.app/"
   },
   {
     "name": "Proyecto 2",
-    "descripcion": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
-    "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
-    "link": "http://cv.giulianaolmos.guixon.com/"
+    "descripcion": "Utilizando HTML y CSS realicé un desafío el cuál consistia en diseñar un dashboard de redes sociales, que sea responsivo y que incuye un botón de modo oscuro.",
+    "image": "https://i.ibb.co/54Kt6mg/ndice.png",
+    "link": "https://dashboard-five-xi.vercel.app/"
   }
 ]
