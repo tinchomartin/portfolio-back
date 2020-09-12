@@ -1,0 +1,38 @@
+[
+  {
+    "skill_name": "HTML",
+    "skill_icon": "fab fa-html5"
+  },
+  {
+    "skill_name": "CSS",
+    "skill_icon": "ab fa-css3-alt"
+  },
+  {
+    "skill_name": "JS",
+    "skill_icon": "fab fa-js-square"
+  },
+  {
+    "skill_name": "JQUERY",
+    "skill_icon": "devicon-jquery-plain-wordmark"
+  },
+  {
+    "skill_name": "TERMINAL",
+    "skill_icon": "fas fa-terminal"
+  },
+  {
+    "skill_name": "GIT",
+    "skill_icon": "fab fa-git-alt"
+  },
+  {
+    "skill_name": "REACT",
+    "skill_icon": "fab fa-react"
+  },
+  {
+    "skill_name": "NODEjs",
+    "skill_icon": "fab fa-node"
+  },
+  {
+    "skill_name": "VISUAL STUDIO",
+    "skill_icon": "devicon-visualstudio-plain"
+  }
+]
