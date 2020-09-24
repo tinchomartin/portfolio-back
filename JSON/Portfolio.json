@@ -1,20 +1,20 @@
 [
   {
-    "name": "Proyecto 1",
+    "name": "Escuela Dev Rock",
     "descripcion": "Utilicé React para desarrollar un buscador de artistas similares al ingresado por el usuario, mediante la API de LastFM",
     "image": "https://i.ibb.co/ZgQZBT5/Captura.jpg",
     "link": "https://find--rock.web.app/"
   },
   {
-    "name": "Proyecto 2",
+    "name": "Maquetado de un panel de redes sociales",
     "descripcion": "Utilizando HTML, CSS y JS realicé un desafío el cuál consistia en diseñar un dashboard de redes sociales, que sea responsivo y que incuye un botón de modo oscuro.",
     "image": "https://i.ibb.co/54Kt6mg/ndice.png",
     "link": "https://dashboard-five-xi.vercel.app/"
   },
 
   {
-    "name": "Proyecto 3",
-    "descripcion": "Maquetado adaptado a diseño mobileUtilizando HTML y CSS. Para una correcta visualización adaptar la vista desde el inspector",
+    "name": "Desafío de maquetdo mobile para empresa",
+    "descripcion": "Maquetado adaptado a diseño mobile utilizando HTML y CSS. Para una correcta visualización adaptar la vista desde el inspector",
     "image": "https://i.ibb.co/S7YRn2Y/Captura2.png",
     "link": "https://maquetado-mobile.vercel.app/"
   }
