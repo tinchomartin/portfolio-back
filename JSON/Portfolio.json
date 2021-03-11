@@ -1,6 +1,12 @@
 [
   {
-    "name": "Escuela Dev Rock",
+    "name": "Alta,baja y modificación de películas",
+    "descripcion": "Aplicación de backend que utiliza Node, Express y Mongo. Consta de un ABM de películas y registro de usuarios. De acuerdo a si este último se encuentra logueado o no y de si tiene permiso como administrador, obtendrá mas accesos para interactuar. Por restricciones de seguridad de las plataformas en la nube para las versiones gratuitas, no se pueden setear cookies, por lo tanto se recomienda probar de forma local y usando Postman.",
+    "image": "https://i.ibb.co/BP3Rk47/Captura.png",
+    "link": "https://github.com/tinchomartin/tp-final"
+  },
+  {
+    "name": "Buscador de artistas similares",
     "descripcion": "Utilicé React para desarrollar un buscador de artistas similares al ingresado por el usuario, mediante la API de LastFM",
     "image": "https://i.ibb.co/ZgQZBT5/Captura.jpg",
     "link": "https://find--rock.web.app/"
@@ -10,12 +16,6 @@
     "descripcion": "Utilizando HTML, CSS y JS realicé un desafío el cuál consistia en diseñar un dashboard de redes sociales, que sea responsivo y que incuye un botón de modo oscuro.",
     "image": "https://i.ibb.co/54Kt6mg/ndice.png",
     "link": "https://dashboard-five-xi.vercel.app/"
-  },
-
-  {
-    "name": "Desafío de maquetado mobile para empresa",
-    "descripcion": "Maquetado adaptado a diseño mobile utilizando HTML y CSS. Para una correcta visualización adaptar la vista desde el inspector",
-    "image": "https://i.ibb.co/S7YRn2Y/Captura2.png",
-    "link": "https://maquetado-mobile.vercel.app/"
   }
+
 ]

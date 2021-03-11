@@ -32,7 +32,18 @@
     "skill_icon": "fab fa-node"
   },
   {
+    "skill_name": "EXPRESS",
+    "skill_icon": "devicon-express-original"
+  },
+  
+  {
+    "skill_name": "MONGODB",
+    "skill_icon": "devicon-mongodb-plain"
+  },
+  
+  {
     "skill_name": "VISUAL STUDIO",
     "skill_icon": "devicon-visualstudio-plain"
   }
+
 ]

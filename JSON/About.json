@@ -1,9 +1,9 @@
 [
   {
     "name": "Martin Garay",
-    "profession": "Front-End",
+    "profession": "Programador JS",
 
-    "about_me": "Disfruto de crear, explorar y aprender sobre el desarrollo web. Con poca experiencia laboral en Front-End, actualmente me encuentro realizando proyectos que me permitan asentar y desarrollar mis conocimientos.",
-    "skills": ["Javascript", "ReactJS", "HTML", "CSS"]
+    "about_me": "Disfruto de crear, explorar y aprender sobre el desarrollo web. Con poca experiencia laboral en Front-End y Back-End, actualmente me encuentro en búsqueda de proyectos que me permitan asentar y desarrollar mis conocimientos, además de lograr un crecimiento profesional.",
+    "skills": ["Javascript", "ReactJS", "NodeJS", "Express", "MongoDB", "HTML", "CSS"]
   }
 ]
