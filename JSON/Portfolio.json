@@ -6,10 +6,10 @@
     "link": "https://github.com/tinchomartin/tp-final"
   },
   {
-    "name": "Buscador de artistas similares",
-    "descripcion": "Utilicé React para desarrollar un buscador de artistas similares al ingresado por el usuario, mediante la API de LastFM",
-    "image": "https://i.ibb.co/ZgQZBT5/Captura.jpg",
-    "link": "https://find--rock.web.app/"
+    "name": "Buscador de paises",
+    "descripcion": "App de React para consultar información de países, permite filtrar por continente o por el buscador. Para la UI utilicé Chakra UI",
+    "image": "https://i.ibb.co/W0jkGyn/Capture.png",
+    "link": "https://thatcountry.vercel.app/"
   },
   {
     "name": "Maquetado de un panel de redes sociales",
