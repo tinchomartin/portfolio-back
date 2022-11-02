@@ -1,4 +1,12 @@
 [
+  
+    {
+    "name": "Challenge pagina de producto de Mercadoibre",
+    "descripcion": "Primer proyecto usando TypeScript que consiste en realizar el challenge de Mercado Libre. Las preguntas quedan almacenadas, las imagenes tienen zoom al pasar el puntero por encima ",
+    "image": "https://i.ibb.co/5KTgcs3/lhprd.png",
+    "link": "https://melify.vercel.app/"
+  },
+  
   {
     "name": "Lista de regalos navideña",
     "descripcion": "Desafío de 24 días, cada día se agregan/modifican features al proyecto. Se utiliza React y Chakra UI, los detalles de la lista se almacenan localmente en el navegador",
@@ -16,13 +24,6 @@
     "descripcion": "Utilizando HTML, CSS y JS realicé un desafío el cuál consistia en diseñar un dashboard de redes sociales, que sea responsivo y que incuye un botón de modo oscuro.",
     "image": "https://i.ibb.co/54Kt6mg/ndice.png",
     "link": "https://dashboard-five-xi.vercel.app/"
-  },
-  
-   {
-    "name": "Alta,baja y modificación de películas",
-    "descripcion": "Aplicación de backend que utiliza Node, Express y Mongo. Consta de un ABM de películas y registro de usuarios. De acuerdo a si este último se encuentra logueado o no y de si tiene permiso como administrador, obtendrá mas accesos para interactuar. Por restricciones de seguridad de las plataformas en la nube para las versiones gratuitas, no se pueden setear cookies, por lo tanto se recomienda probar de forma local y usando Postman.",
-    "image": "https://i.ibb.co/BP3Rk47/Captura.png",
-    "link": "https://github.com/tinchomartin/tp-final"
   }
 
 ]
